@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **Node JS, Express, Mongo DB**
 
-- 👨‍💻 All of my projects are available at [myPortfolio.com.....](myPortfolio.com.....)
+- 👨‍💻 All of my projects are available at [myPortfolio.com.....](shrikantjawla.github.io)
 
 - 💬 Ask me about **react, Node JS, express, HTML, CSS, Java Script**
 
