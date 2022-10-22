@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **shrikantjawla@gmail.com**
 
-- 📄 Know about my experienceshttps://drive.google.com/file/d/1TWsv_tiCdHX_sLwypvya1o2ejH4jQimY/view?usp=sharing
+- 📄 Know about my experiences  https://drive.google.com/file/d/1TWsv_tiCdHX_sLwypvya1o2ejH4jQimY/view?usp=sharing
 
 - ⚡ Fun fact **On average, a human blinks 20 times per minute, but using a computer reduces it to 7.**
 
