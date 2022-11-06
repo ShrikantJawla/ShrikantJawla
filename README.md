@@ -12,13 +12,13 @@
 
 - 🌱 I’m currently learning **Node JS, Express, Mongo DB**
 
-- 👨‍💻 All of my projects are available at https://shrikantjawla.github.io
+- 👨‍💻 All of my projects are available at [My Portfolio](https://shrikantjawla.github.io)
 
 - 💬 Ask me about **react, Node JS, express, HTML, CSS, Java Script**
 
-- 📫 How to reach me **shrikantjawla@gmail.com**
+- 📫 How to reach me [Email](shrikantjawla@gmail.com)
 
-- 📄 Know about my experiences  https://drive.google.com/file/d/1TWsv_tiCdHX_sLwypvya1o2ejH4jQimY/view?usp=sharing
+- 📄 Know about my experiences  [My Resume](https://drive.google.com/file/d/1TWsv_tiCdHX_sLwypvya1o2ejH4jQimY/view?usp=sharing)
 
 - ⚡ Fun fact **On average, a human blinks 20 times per minute, but using a computer reduces it to 7.**
 
