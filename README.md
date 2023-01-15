@@ -8,7 +8,7 @@
 <p><img align="right" height='370px' src="https://coinpresso.io/wp-content/uploads/2021/09/web-dev-coinpresso.webp" alt="shrikantjawla" /></p>
 
 
-- 🔭 I’m currently working on [Survey Monkey Clone](https://slow-argument-2201.netlify.app/)
+- 🔭 I’m currently working on [Cosmetica](https://cosmetica.vercel.app)
 
 - 🌱 I’m currently learning **Node JS, Express, Mongo DB**
 
